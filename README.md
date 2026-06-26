@@ -143,5 +143,6 @@ Evaluate application trends across target audience groups to identify the most r
 **Anushiya Begam**
 
 **Data Analyst | SQL | Python | Power BI | Business Intelligence**
+www.linkedin.com/in/anushiya-begam-17b0391aa
 
 If you found this project useful, feel free to connect or share your feedback.
